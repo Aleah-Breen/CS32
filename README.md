@@ -1,1 +1,2 @@
 # CS32
+In this course, I learned how to employ data abstraction to build programs larger than those I constructed in CS 31. I learned how to use a variety of data structures in the course of solving problems, and importantly, how to analyze what data structures and algorithms are most appropriate for a given problem. In addition, I deepened my understanding of modern programming by learning the principles of object-oriented and generic programming.
